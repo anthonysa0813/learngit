@@ -18,3 +18,7 @@ nav ul {
   display: flex;
   justify-content: space-between;
 }
+
+h1 {
+  color: brown;
+}
